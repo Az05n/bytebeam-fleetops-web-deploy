@@ -1,4 +1,6 @@
 # FleetOps — Bytebeam Fleet Intelligence
+(deployment link : https://bytebeam-fleet-management.vercel.app?utm_source=chatgpt.com
+sample credentials  mail: ops@bytebeam.io  password : 12345678)
 
 A dark-mode fleet operations dashboard built with React + TypeScript, Vite, Tailwind CSS, Supabase Auth, and React Leaflet. The app is designed as a real operations console for monitoring fleet health, vehicle movement, trip progress, and attention-needed alerts.
 
